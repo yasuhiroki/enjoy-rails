@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "provider": "email",
+    "uid": "yasuhiroki.duck@gmail.com",
+    "allow_password_change": false,
+    "name": null,
+    "nickname": null,
+    "image": null,
+    "email": "yasuhiroki.duck@gmail.com",
+    "created_at": "2024-11-07T03:30:09.956Z",
+    "updated_at": "2024-11-07T03:30:55.275Z"
+  }
+]
+Bearer eyJhY2Nlc3MtdG9rZW4iOiIxaFNfOEdFRDFfNm50MS1oelZZdFJnIiwidG9rZW4tdHlwZSI6IkJlYXJlciIsImNsaWVudCI6IlRyM3dfWlJlVDF2M1ZXZlVFZ2Z5WGciLCJleHBpcnkiOiIxNzMyMTU5ODYxIiwidWlkIjoieWFzdWhpcm9raS5kdWNrQGdtYWlsLmNvbSJ9
